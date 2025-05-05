@@ -5,7 +5,7 @@ Volumen del primer Grimorio del Programador
 (https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Primera%20Calculadora%20(.c))
 
 [Malloc]  :  
-(https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/edit/main/Primer%20Malloc()%20(.c))
+(https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Primer%20Malloc().c)
 
 [Recursivitat]  :        
 (https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Primera%20Recursivitat%20(.c))
