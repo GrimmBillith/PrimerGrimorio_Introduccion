@@ -14,4 +14,4 @@ Volumen del primer Grimorio del Programador
 (https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Malloc()%20+%20Recursivitat%20(.c))
 
 [Cerca_Seqüencial]  :        
-(https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Cerca_Seqüencial%20(.c))
+(https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Cerca_Seq%C3%BCencial.c)
