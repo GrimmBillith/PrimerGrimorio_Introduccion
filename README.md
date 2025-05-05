@@ -2,7 +2,7 @@
 Volumen del primer Grimorio del Programador
 
 [Calculadora]  :  
-(https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Primera%20Calculadora%20(.c))
+(https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Primera%20Calculadora.c)
 
 [Malloc]  :  
 (https://github.com/GrimmBillith/PrimerGrimorio_Introduccion/blob/main/Primer%20Malloc().c)
